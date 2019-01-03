@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/show_pic"
+        android:title="CarPic"/>
+    <item
+        android:id="@+id/website"
+        android:title="CarWebsite"/>
+    <item
+        android:id="@+id/contact_dealer"
+        android:title="CarDealer"/>
+
+</menu>
